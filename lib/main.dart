@@ -121,7 +121,7 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
         actions: [
           IconButton(
-            icon: Icon(Icons.add),
+            icon: Icon(Icons.sports_soccer),
             onPressed: ()=>_openTransactionFormModal(context),
           )
         ],
